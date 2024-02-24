@@ -9,7 +9,7 @@ Mini-Batch Gradient Descent: Updates model parameters using a small random subse
 
 Usage
 Clone the repository to your local machine:
-git clone https://github.com/your_username/logistic-regression.git
+git clone https://github.com/yashc1712/Logistic-Regression-with-Gradient-Descent.git
 
 Ensure you have the necessary dependencies installed:
 pip install numpy matplotlib
